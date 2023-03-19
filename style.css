@@ -1,0 +1,12 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Dosis',Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(124, 92, 11);
+}
+
+p, ul, ol, li, a {
+    font-family: 'Bitter',Georgia, 'Times New Roman', Times, serif;
+}
